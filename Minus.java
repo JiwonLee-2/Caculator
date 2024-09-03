@@ -1,5 +1,5 @@
 public class Minus {
-    public int minus(int x, int y){
+    public static int minus(int x, int y){
         if( x > y){
             return x - y;
         }
