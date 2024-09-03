@@ -6,5 +6,7 @@ public class main {
         x = 10;
         y = 5;
 
+        Add.add(x, y);
+
     }
 }
