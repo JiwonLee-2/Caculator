@@ -1,2 +1,2 @@
-# Caculator
+# Calculator
 To test Git
