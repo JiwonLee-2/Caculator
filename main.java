@@ -7,6 +7,5 @@ public class main {
         y = 5;
 
         Add.add(x, y);
-
     }
 }
